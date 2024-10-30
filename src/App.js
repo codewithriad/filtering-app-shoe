@@ -6,8 +6,8 @@ const App = () => {
   return (
     <>
       <Navigation/>
-      <Products/>
       <Recomended/>
+      <Products/>
 
     </>
   );
